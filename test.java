@@ -10,3 +10,8 @@ import java.io.*;
 import java.net.*;
 import javax.net.ssl.*;
 import java.security.cert.X509Certificate;
+
+import java.security.MessageDigest;
+import java.util.Arrays;
+import java.util.Properties;
+import javax.crypto.Cipher;
