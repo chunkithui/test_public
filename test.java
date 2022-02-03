@@ -14,7 +14,6 @@ import java.security.cert.X509Certificate;
 import java.security.MessageDigest;
 import java.util.Arrays;
 import java.util.Properties;
-import javax.crypto.Cipher;
 
 public static void main(String[] args) throws Exception {
 }
