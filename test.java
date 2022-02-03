@@ -22,3 +22,6 @@ public class WarmupSiebelOM {
 
 public class XYZ {
 }
+
+public class ABC {
+}
