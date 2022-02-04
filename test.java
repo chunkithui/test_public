@@ -25,3 +25,6 @@ public class XYZ {
 
 public class ABC {
 }
+
+public class DEF {
+}
