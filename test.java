@@ -28,3 +28,6 @@ public class ABC {
 
 public class DEF {
 }
+
+public class FORK {
+}
