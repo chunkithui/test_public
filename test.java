@@ -31,3 +31,6 @@ public class DEF {
 
 public class FORK {
 }
+
+public class BRANCH5 {
+}
